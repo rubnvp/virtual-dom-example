@@ -1,0 +1,30 @@
+body {
+    font: 15px/24px 'Muli', sans-serif;
+    color: #333;
+    letter-spacing: 1px;
+}
+
+main {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+input {
+    font: 15px/24px 'Muli', sans-serif;
+    color: #333;
+    width: 100%;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    border: 1px solid #ccc;
+    padding: 7px 14px 9px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 2px 4px;
+}
